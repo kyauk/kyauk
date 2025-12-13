@@ -2,8 +2,7 @@ Hi! My name is Jason, and I'm currently a 3rd year undergraduate @ Stanford Univ
 
 I love to dabble in AI and Medicine, with current more focused interests in CV x Medical Robotics, as well as using biological constraints to solve hard CV problems in the space.
 
-In my free time, I like to play basketball, go on runs, soak in nature with hikes, and root for the 49ers on Sundays. Thanks for reading, and it was a pleasure to meet you!
-
+In my free time, I like to play basketball, go on runs, soak in nature with hikes, and root for the 49ers on Sundays. 
 You can contact me: jkyauk@stanford.edu
 
 Learn more about me and my projects: https://www.kyauk.dev
